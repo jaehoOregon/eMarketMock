@@ -12,6 +12,7 @@ https://user-images.githubusercontent.com/113483671/191118146-ad838225-fb71-4fdc
 - 등록 화면 구성 방법 고민(사진 업로드 방법, 카테고리 누를 때 화면 전환 후 선택 가능하게 하는 것, 옵션 버튼 누를 때 팝업 창 뜨게 하는 법)
 
 22.9.21.작업결과
+
 https://user-images.githubusercontent.com/113483671/191373064-b53d02ac-1a57-4b27-8e45-1f8fb5fde915.mp4
 
 내일 할 일 (진행 중)
